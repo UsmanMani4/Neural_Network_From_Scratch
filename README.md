@@ -25,3 +25,7 @@ to classify handwritten digits from the MNIST dataset.
 - NumPy
 - Matplotlib
 - Google Colab
+## How to run
+1. Open the notebooks in Google Colab.
+2. Run all cells in order.
+3. Ensure internet connection to fetch MNIST.
